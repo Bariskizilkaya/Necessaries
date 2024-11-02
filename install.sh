@@ -3,3 +3,4 @@ sudo apt install gawk wget git diffstat unzip texinfo gcc build-essential chrpat
 sudo apt install cargo
 sudo apt install net-tools
 sudo snap install code
+sudo apt-get install git-lfs
